@@ -1,1 +1,19 @@
+{
+    "name" : "MaskOff",
+    "description" : "Allows you to interact with objects without wearing a mask.",
+    "author" : "Tom and Jerry",
+    "contact" : "jordani@gir.gu",
+    "version" : "2.0",
 
+    "keybinds" : [
+        {
+			"keybind_id" : "keybind",
+            "name" : "Выбери кнопку включения",
+            "description" : "Выбери кнопку для включения мода взаимодействия не надевая маски"
+            "script_path" : "maskoff.luac",
+            "run_in_menu" : true,
+            "run_in_game" : true,
+            "localized" : false
+        }
+    ]
+}
