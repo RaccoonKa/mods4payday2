@@ -1,0 +1,11 @@
+FedNet URL:
+Heister: 	http://fbi.overkillsoftware.com/img/sketches/sketch-<name_id>-large.jpg
+Mask: 		http://fbi.overkillsoftware.com/img/masks/full/<mask_id>_dif.png
+Weapon:		http://fbi.overkillsoftware.com/img/weapons/ranged/full/<weapon_id>.png
+Melee:		http://fbi.overkillsoftware.com/img/weapons/melee/full/<melee_id>.png
+Throwable:	http://fbi.overkillsoftware.com/img/weapons/thrown/full/<thowable_id>.png
+Equipment:	http://fbi.overkillsoftware.com/img/weapons/equipment/full/<equipment_id>.png
+
+DLC		TYPE		NAME
+inf     style 		t800
+anv		style 		continentale
