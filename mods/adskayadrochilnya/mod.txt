@@ -1,0 +1,13 @@
+{
+	"name" : "Death Sentence to Adskaya Drochilnya",
+	"description" : "Death Sentence to Adskaya Drochilnya",
+	"author" : "Dinro",
+	"contact" : "",
+	"version" : "1.0",
+	"hooks" : [
+   {   
+        "hook_id" : "lib/managers/localizationmanager",
+        "script_path" : "adskayadrochilnya.lua"
+    }
+]
+}

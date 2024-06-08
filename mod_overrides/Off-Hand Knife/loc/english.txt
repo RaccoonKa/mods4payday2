@@ -1,0 +1,21 @@
+{
+	"bm_menu_knife_addon" : "Off-Hand Knife",
+	"bm_menu_knife_addon_plural" : "Off-Hand Knives",
+
+	"bm_wp_wpn_fps_pis_usp_knife_rambo" 		: "Trautman Knife",
+	"bm_wp_wpn_fps_pis_usp_knife_kabar_tanto" 	: "Ursa Tanto Knife",
+	"bm_wp_wpn_fps_pis_usp_knife_kabar" 		: "URSA Knife",
+	"bm_wp_wpn_fps_pis_usp_knife_km2000" 		: "Krieger Blade",
+	"bm_wp_wpn_fps_pis_usp_knife_ballistic" 	: "Specialist Knife",
+	"bm_wp_wpn_fps_pis_usp_knife_switchblade" 	: "Switchblade",
+	"bm_wp_wpn_fps_pis_usp_knife_x46" 		: "X-46 Knife",
+	"bm_wp_wpn_fps_pis_usp_knife_chef" 		: "Psycho Knife",
+	"bm_wp_wpn_fps_pis_usp_knife_aziz" 		: "Tactical Flashlight", 
+	"bm_wp_wpn_fps_pis_usp_knife_fairbair" 		: "Trench Knife",
+	"bm_wp_wpn_fps_pis_usp_knife_wing" 		: "Wing Butterfly Knife",
+	"bm_wp_wpn_fps_pis_usp_knife_toothbrush_shiv" 	: "Nova's Shank"
+	"bm_wp_wpn_fps_pis_usp_knife_bayonet" 		: "Bayonet Knife"
+	"bm_wp_wpn_fps_pis_usp_knife_sword" 		: "The Pen"
+	"bm_wp_wpn_fps_pis_usp_knife_oxide" 		: "Rezkoye"
+	"bm_wp_wpn_fps_pis_usp_knife_freedom" 		: "The Spear Of Freedom"
+}

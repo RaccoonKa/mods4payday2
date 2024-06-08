@@ -1,0 +1,9 @@
+{
+	"menu_simple_compass_title": "Simple Compass",
+	"menu_simple_compass_desc" : "Compass on HUD",
+
+	"menu_simple_compass_offset_y_title" : "HUD Offset Y",
+	"menu_simple_compass_offset_y_desc" : "Modify Compass Position",
+	"menu_simple_compass_teammate_visible_title" : "Teammate Visible",
+	"menu_simple_compass_teammate_visible_desc" : "Display teammate on Compass"
+}

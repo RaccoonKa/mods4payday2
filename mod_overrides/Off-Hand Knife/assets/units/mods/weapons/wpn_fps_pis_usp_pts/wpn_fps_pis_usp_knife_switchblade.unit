@@ -1,0 +1,9 @@
+<unit type="wpn" slot="1">
+	<object file="units/mods/weapons/wpn_fps_pis_usp_pts/wpn_fps_pis_usp_knife_switchblade"/>
+	<dependencies>
+		<depends_on unit = "units/pd2_dlc_casino/weapons/wpn_fps_mel_switchblade/wpn_fps_mel_switchblade"/>
+	</dependencies>
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData"/>
+	</extensions>
+</unit>

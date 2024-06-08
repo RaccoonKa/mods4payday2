@@ -1,0 +1,378 @@
+<mod name="Off-hand Knife" color="Color(1.00,0.64,0.00)">
+    <AssetUpdates id="48089" version="0.95" provider="modworkshop"/>
+	<Localization directory="loc" default="english.txt"/>
+	
+    <WeaponMod id="wpn_fps_pis_usp_knife_rambo" based_on="wpn_fps_m4_lower_reciever" type="knife_addon" wpn_pts="wpn_fps_pis_usp" ver="2">
+		<stats min_damage="10" max_damage="10"/>
+		<forbids>
+			<value_node value="wpn_fps_pis_g18c_s_stock"/>
+		</forbids>
+		<weapons>
+			<value_node value="wpn_fps_pis_usp"/>
+			<value_node value="wpn_fps_pis_1911"/>
+			<value_node value="wpn_fps_pis_g17"/>
+			<value_node value="wpn_fps_pis_g18c"/>
+			<value_node value="wpn_fps_pis_g22c"/>
+			<value_node value="wpn_fps_pis_g26"/>
+			<value_node value="wpn_fps_pis_deagle"/>
+			<value_node value="wpn_fps_pis_beretta"/>
+			<value_node value="wpn_fps_pis_shrew"/>
+			<value_node value="wpn_fps_pis_p226"/>
+			<value_node value="wpn_fps_pis_hs2000"/>
+			<value_node value="wpn_fps_pis_sparrow"/>
+			<value_node value="wpn_fps_pis_m1911"/>
+			<value_node value="wpn_fps_pis_pl14"/>
+		</weapons>
+	</WeaponMod>
+	
+    <WeaponMod id="wpn_fps_pis_usp_knife_bayonet" based_on="wpn_fps_m4_lower_reciever" type="knife_addon" wpn_pts="wpn_fps_pis_usp" ver="2">
+		<stats min_damage="10" max_damage="10"/>
+		<forbids>
+			<value_node value="wpn_fps_pis_g18c_s_stock"/>
+		</forbids>
+		<weapons>
+			<value_node value="wpn_fps_pis_usp"/>
+			<value_node value="wpn_fps_pis_1911"/>
+			<value_node value="wpn_fps_pis_g17"/>
+			<value_node value="wpn_fps_pis_g18c"/>
+			<value_node value="wpn_fps_pis_g22c"/>
+			<value_node value="wpn_fps_pis_g26"/>
+			<value_node value="wpn_fps_pis_deagle"/>
+			<value_node value="wpn_fps_pis_beretta"/>
+			<value_node value="wpn_fps_pis_shrew"/>
+			<value_node value="wpn_fps_pis_p226"/>
+			<value_node value="wpn_fps_pis_hs2000"/>
+			<value_node value="wpn_fps_pis_sparrow"/>
+			<value_node value="wpn_fps_pis_m1911"/>
+			<value_node value="wpn_fps_pis_pl14"/>
+		</weapons>
+	</WeaponMod>
+		
+    <WeaponMod id="wpn_fps_pis_usp_knife_sword" based_on="wpn_fps_m4_lower_reciever" type="knife_addon" wpn_pts="wpn_fps_pis_usp" ver="2">
+		<stats min_damage="10" max_damage="10"/>
+		<forbids>
+			<value_node value="wpn_fps_pis_g18c_s_stock"/>
+		</forbids>
+		<weapons>
+			<value_node value="wpn_fps_pis_usp"/>
+			<value_node value="wpn_fps_pis_1911"/>
+			<value_node value="wpn_fps_pis_g17"/>
+			<value_node value="wpn_fps_pis_g18c"/>
+			<value_node value="wpn_fps_pis_g22c"/>
+			<value_node value="wpn_fps_pis_g26"/>
+			<value_node value="wpn_fps_pis_deagle"/>
+			<value_node value="wpn_fps_pis_beretta"/>
+			<value_node value="wpn_fps_pis_shrew"/>
+			<value_node value="wpn_fps_pis_p226"/>
+			<value_node value="wpn_fps_pis_hs2000"/>
+			<value_node value="wpn_fps_pis_sparrow"/>
+			<value_node value="wpn_fps_pis_m1911"/>
+			<value_node value="wpn_fps_pis_pl14"/>
+		</weapons>
+	</WeaponMod>
+	
+    <WeaponMod id="wpn_fps_pis_usp_knife_oxide" based_on="wpn_fps_m4_lower_reciever" type="knife_addon" wpn_pts="wpn_fps_pis_usp" ver="2">
+		<stats min_damage="10" max_damage="10"/>
+		<forbids>
+			<value_node value="wpn_fps_pis_g18c_s_stock"/>
+		</forbids>
+		<weapons>
+			<value_node value="wpn_fps_pis_usp"/>
+			<value_node value="wpn_fps_pis_1911"/>
+			<value_node value="wpn_fps_pis_g17"/>
+			<value_node value="wpn_fps_pis_g18c"/>
+			<value_node value="wpn_fps_pis_g22c"/>
+			<value_node value="wpn_fps_pis_g26"/>
+			<value_node value="wpn_fps_pis_deagle"/>
+			<value_node value="wpn_fps_pis_beretta"/>
+			<value_node value="wpn_fps_pis_shrew"/>
+			<value_node value="wpn_fps_pis_p226"/>
+			<value_node value="wpn_fps_pis_hs2000"/>
+			<value_node value="wpn_fps_pis_sparrow"/>
+			<value_node value="wpn_fps_pis_m1911"/>
+			<value_node value="wpn_fps_pis_pl14"/>
+		</weapons>
+	</WeaponMod>
+	
+    <WeaponMod id="wpn_fps_pis_usp_knife_freedom" based_on="wpn_fps_m4_lower_reciever" type="knife_addon" wpn_pts="wpn_fps_pis_usp" hidden="true" ver="2">
+		<stats min_damage="10" max_damage="10"/>
+		<forbids>
+			<value_node value="wpn_fps_pis_g18c_s_stock"/>
+		</forbids>
+		<weapons>
+			<value_node value="wpn_fps_pis_usp"/>
+			<value_node value="wpn_fps_pis_1911"/>
+			<value_node value="wpn_fps_pis_g17"/>
+			<value_node value="wpn_fps_pis_g18c"/>
+			<value_node value="wpn_fps_pis_g22c"/>
+			<value_node value="wpn_fps_pis_g26"/>
+			<value_node value="wpn_fps_pis_deagle"/>
+			<value_node value="wpn_fps_pis_beretta"/>
+			<value_node value="wpn_fps_pis_shrew"/>
+			<value_node value="wpn_fps_pis_p226"/>
+			<value_node value="wpn_fps_pis_hs2000"/>
+			<value_node value="wpn_fps_pis_sparrow"/>
+			<value_node value="wpn_fps_pis_m1911"/>
+			<value_node value="wpn_fps_pis_pl14"/>
+		</weapons>
+	</WeaponMod>
+	
+    <WeaponMod id="wpn_fps_pis_usp_knife_wing" based_on="wpn_fps_m4_lower_reciever" type="knife_addon" wpn_pts="wpn_fps_pis_usp" ver="2">
+		<stats min_damage="10" max_damage="10"/>
+		<forbids>
+			<value_node value="wpn_fps_pis_g18c_s_stock"/>
+		</forbids>
+		<weapons>
+			<value_node value="wpn_fps_pis_usp"/>
+			<value_node value="wpn_fps_pis_1911"/>
+			<value_node value="wpn_fps_pis_g17"/>
+			<value_node value="wpn_fps_pis_g18c"/>
+			<value_node value="wpn_fps_pis_g22c"/>
+			<value_node value="wpn_fps_pis_g26"/>
+			<value_node value="wpn_fps_pis_deagle"/>
+			<value_node value="wpn_fps_pis_beretta"/>
+			<value_node value="wpn_fps_pis_shrew"/>
+			<value_node value="wpn_fps_pis_p226"/>
+			<value_node value="wpn_fps_pis_hs2000"/>
+			<value_node value="wpn_fps_pis_sparrow"/>
+			<value_node value="wpn_fps_pis_m1911"/>
+			<value_node value="wpn_fps_pis_pl14"/>
+		</weapons>
+	</WeaponMod>
+	
+    <WeaponMod id="wpn_fps_pis_usp_knife_kabar_tanto" based_on="wpn_fps_m4_lower_reciever" type="knife_addon" wpn_pts="wpn_fps_pis_usp" ver="2">
+		<stats min_damage="10" max_damage="10"/>
+		<forbids>
+			<value_node value="wpn_fps_pis_g18c_s_stock"/>
+		</forbids>
+		<weapons>
+			<value_node value="wpn_fps_pis_usp"/>
+			<value_node value="wpn_fps_pis_1911"/>
+			<value_node value="wpn_fps_pis_g17"/>
+			<value_node value="wpn_fps_pis_g18c"/>
+			<value_node value="wpn_fps_pis_g22c"/>
+			<value_node value="wpn_fps_pis_g26"/>
+			<value_node value="wpn_fps_pis_deagle"/>
+			<value_node value="wpn_fps_pis_beretta"/>
+			<value_node value="wpn_fps_pis_shrew"/>
+			<value_node value="wpn_fps_pis_p226"/>
+			<value_node value="wpn_fps_pis_hs2000"/>
+			<value_node value="wpn_fps_pis_sparrow"/>
+			<value_node value="wpn_fps_pis_m1911"/>
+			<value_node value="wpn_fps_pis_pl14"/>
+		</weapons>
+	</WeaponMod>
+	
+    <WeaponMod id="wpn_fps_pis_usp_knife_kabar" based_on="wpn_fps_m4_lower_reciever" type="knife_addon" wpn_pts="wpn_fps_pis_usp" ver="2">
+		<stats min_damage="10" max_damage="10"/>
+		<forbids>
+			<value_node value="wpn_fps_pis_g18c_s_stock"/>
+		</forbids>
+		<weapons>
+			<value_node value="wpn_fps_pis_usp"/>
+			<value_node value="wpn_fps_pis_1911"/>
+			<value_node value="wpn_fps_pis_g17"/>
+			<value_node value="wpn_fps_pis_g18c"/>
+			<value_node value="wpn_fps_pis_g22c"/>
+			<value_node value="wpn_fps_pis_g26"/>
+			<value_node value="wpn_fps_pis_deagle"/>
+			<value_node value="wpn_fps_pis_beretta"/>
+			<value_node value="wpn_fps_pis_shrew"/>
+			<value_node value="wpn_fps_pis_p226"/>
+			<value_node value="wpn_fps_pis_hs2000"/>
+			<value_node value="wpn_fps_pis_sparrow"/>
+			<value_node value="wpn_fps_pis_m1911"/>
+			<value_node value="wpn_fps_pis_pl14"/>
+		</weapons>
+	</WeaponMod>
+	
+    <WeaponMod id="wpn_fps_pis_usp_knife_km2000" based_on="wpn_fps_m4_lower_reciever" type="knife_addon" wpn_pts="wpn_fps_pis_usp" ver="2">
+		<stats min_damage="10" max_damage="10"/>
+		<forbids>
+			<value_node value="wpn_fps_pis_g18c_s_stock"/>
+		</forbids>
+		<weapons>
+			<value_node value="wpn_fps_pis_usp"/>
+			<value_node value="wpn_fps_pis_1911"/>
+			<value_node value="wpn_fps_pis_g17"/>
+			<value_node value="wpn_fps_pis_g18c"/>
+			<value_node value="wpn_fps_pis_g22c"/>
+			<value_node value="wpn_fps_pis_g26"/>
+			<value_node value="wpn_fps_pis_deagle"/>
+			<value_node value="wpn_fps_pis_beretta"/>
+			<value_node value="wpn_fps_pis_shrew"/>
+			<value_node value="wpn_fps_pis_p226"/>
+			<value_node value="wpn_fps_pis_hs2000"/>
+			<value_node value="wpn_fps_pis_sparrow"/>
+			<value_node value="wpn_fps_pis_m1911"/>
+			<value_node value="wpn_fps_pis_pl14"/>
+		</weapons>
+	</WeaponMod>
+	
+    <WeaponMod id="wpn_fps_pis_usp_knife_ballistic" based_on="wpn_fps_m4_lower_reciever" type="knife_addon" wpn_pts="wpn_fps_pis_usp" ver="2">
+		<stats min_damage="10" max_damage="10"/>
+		<forbids>
+			<value_node value="wpn_fps_pis_g18c_s_stock"/>
+		</forbids>
+		<weapons>
+			<value_node value="wpn_fps_pis_usp"/>
+			<value_node value="wpn_fps_pis_1911"/>
+			<value_node value="wpn_fps_pis_g17"/>
+			<value_node value="wpn_fps_pis_g18c"/>
+			<value_node value="wpn_fps_pis_g22c"/>
+			<value_node value="wpn_fps_pis_g26"/>
+			<value_node value="wpn_fps_pis_deagle"/>
+			<value_node value="wpn_fps_pis_beretta"/>
+			<value_node value="wpn_fps_pis_shrew"/>
+			<value_node value="wpn_fps_pis_p226"/>
+			<value_node value="wpn_fps_pis_hs2000"/>
+			<value_node value="wpn_fps_pis_sparrow"/>
+			<value_node value="wpn_fps_pis_m1911"/>
+			<value_node value="wpn_fps_pis_pl14"/>
+		</weapons>
+	</WeaponMod>
+	
+    <WeaponMod id="wpn_fps_pis_usp_knife_switchblade" based_on="wpn_fps_m4_lower_reciever" type="knife_addon" wpn_pts="wpn_fps_pis_usp" ver="2">
+		<stats min_damage="10" max_damage="10"/>
+		<forbids>
+			<value_node value="wpn_fps_pis_g18c_s_stock"/>
+		</forbids>
+		<weapons>
+			<value_node value="wpn_fps_pis_usp"/>
+			<value_node value="wpn_fps_pis_1911"/>
+			<value_node value="wpn_fps_pis_g17"/>
+			<value_node value="wpn_fps_pis_g18c"/>
+			<value_node value="wpn_fps_pis_g22c"/>
+			<value_node value="wpn_fps_pis_g26"/>
+			<value_node value="wpn_fps_pis_deagle"/>
+			<value_node value="wpn_fps_pis_beretta"/>
+			<value_node value="wpn_fps_pis_shrew"/>
+			<value_node value="wpn_fps_pis_p226"/>
+			<value_node value="wpn_fps_pis_hs2000"/>
+			<value_node value="wpn_fps_pis_sparrow"/>
+			<value_node value="wpn_fps_pis_m1911"/>
+			<value_node value="wpn_fps_pis_pl14"/>
+		</weapons>
+	</WeaponMod>
+
+    <WeaponMod id="wpn_fps_pis_usp_knife_x46" based_on="wpn_fps_m4_lower_reciever" type="knife_addon" wpn_pts="wpn_fps_pis_usp" ver="2">
+		<stats min_damage="10" max_damage="10"/>
+		<forbids>
+			<value_node value="wpn_fps_pis_g18c_s_stock"/>
+		</forbids>
+		<weapons>
+			<value_node value="wpn_fps_pis_usp"/>
+			<value_node value="wpn_fps_pis_1911"/>
+			<value_node value="wpn_fps_pis_g17"/>
+			<value_node value="wpn_fps_pis_g18c"/>
+			<value_node value="wpn_fps_pis_g22c"/>
+			<value_node value="wpn_fps_pis_g26"/>
+			<value_node value="wpn_fps_pis_deagle"/>
+			<value_node value="wpn_fps_pis_beretta"/>
+			<value_node value="wpn_fps_pis_shrew"/>
+			<value_node value="wpn_fps_pis_p226"/>
+			<value_node value="wpn_fps_pis_hs2000"/>
+			<value_node value="wpn_fps_pis_sparrow"/>
+			<value_node value="wpn_fps_pis_m1911"/>
+			<value_node value="wpn_fps_pis_pl14"/>
+		</weapons>
+	</WeaponMod>
+
+    <WeaponMod id="wpn_fps_pis_usp_knife_chef" based_on="wpn_fps_m4_lower_reciever" type="knife_addon" wpn_pts="wpn_fps_pis_usp" ver="2">
+		<stats min_damage="10" max_damage="10"/>
+		<forbids>
+			<value_node value="wpn_fps_pis_g18c_s_stock"/>
+		</forbids>
+		<weapons>
+			<value_node value="wpn_fps_pis_usp"/>
+			<value_node value="wpn_fps_pis_1911"/>
+			<value_node value="wpn_fps_pis_g17"/>
+			<value_node value="wpn_fps_pis_g18c"/>
+			<value_node value="wpn_fps_pis_g22c"/>
+			<value_node value="wpn_fps_pis_g26"/>
+			<value_node value="wpn_fps_pis_deagle"/>
+			<value_node value="wpn_fps_pis_beretta"/>
+			<value_node value="wpn_fps_pis_shrew"/>
+			<value_node value="wpn_fps_pis_p226"/>
+			<value_node value="wpn_fps_pis_hs2000"/>
+			<value_node value="wpn_fps_pis_sparrow"/>
+			<value_node value="wpn_fps_pis_m1911"/>
+			<value_node value="wpn_fps_pis_pl14"/>
+		</weapons>
+	</WeaponMod>
+
+    <WeaponMod id="wpn_fps_pis_usp_knife_fairbair" based_on="wpn_fps_m4_lower_reciever" type="knife_addon" wpn_pts="wpn_fps_pis_usp" ver="2">
+		<stats min_damage="10" max_damage="10"/>
+		<forbids>
+			<value_node value="wpn_fps_pis_g18c_s_stock"/>
+		</forbids>
+		<weapons>
+			<value_node value="wpn_fps_pis_usp"/>
+			<value_node value="wpn_fps_pis_1911"/>
+			<value_node value="wpn_fps_pis_g17"/>
+			<value_node value="wpn_fps_pis_g18c"/>
+			<value_node value="wpn_fps_pis_g22c"/>
+			<value_node value="wpn_fps_pis_g26"/>
+			<value_node value="wpn_fps_pis_deagle"/>
+			<value_node value="wpn_fps_pis_beretta"/>
+			<value_node value="wpn_fps_pis_shrew"/>
+			<value_node value="wpn_fps_pis_p226"/>
+			<value_node value="wpn_fps_pis_hs2000"/>
+			<value_node value="wpn_fps_pis_sparrow"/>
+			<value_node value="wpn_fps_pis_m1911"/>
+			<value_node value="wpn_fps_pis_pl14"/>
+		</weapons>
+	</WeaponMod>
+
+    <WeaponMod id="wpn_fps_pis_usp_knife_toothbrush_shiv" based_on="wpn_fps_m4_lower_reciever" type="knife_addon" wpn_pts="wpn_fps_pis_usp" ver="2">
+		<stats min_damage="10" max_damage="10"/>
+		<forbids>
+			<value_node value="wpn_fps_pis_g18c_s_stock"/>
+		</forbids>
+		<weapons>
+			<value_node value="wpn_fps_pis_usp"/>
+			<value_node value="wpn_fps_pis_1911"/>
+			<value_node value="wpn_fps_pis_g17"/>
+			<value_node value="wpn_fps_pis_g18c"/>
+			<value_node value="wpn_fps_pis_g22c"/>
+			<value_node value="wpn_fps_pis_g26"/>
+			<value_node value="wpn_fps_pis_deagle"/>
+			<value_node value="wpn_fps_pis_beretta"/>
+			<value_node value="wpn_fps_pis_shrew"/>
+			<value_node value="wpn_fps_pis_p226"/>
+			<value_node value="wpn_fps_pis_hs2000"/>
+			<value_node value="wpn_fps_pis_sparrow"/>
+			<value_node value="wpn_fps_pis_m1911"/>
+			<value_node value="wpn_fps_pis_pl14"/>
+		</weapons>
+	</WeaponMod>
+
+    <WeaponMod id="wpn_fps_pis_usp_knife_aziz" based_on="wpn_fps_m4_lower_reciever" type="knife_addon" wpn_pts="wpn_fps_pis_usp" ver="2">
+		<weapons>
+			<value_node value="wpn_fps_pis_usp"/>
+			<value_node value="wpn_fps_pis_1911"/>
+			<value_node value="wpn_fps_pis_g17"/>
+			<value_node value="wpn_fps_pis_g18c"/>
+			<value_node value="wpn_fps_pis_g22c"/>
+			<value_node value="wpn_fps_pis_g26"/>
+			<value_node value="wpn_fps_pis_deagle"/>
+			<value_node value="wpn_fps_pis_beretta"/>
+			<value_node value="wpn_fps_pis_shrew"/>
+			<value_node value="wpn_fps_pis_p226"/>
+			<value_node value="wpn_fps_pis_hs2000"/>
+			<value_node value="wpn_fps_pis_sparrow"/>
+			<value_node value="wpn_fps_pis_m1911"/>
+			<value_node value="wpn_fps_pis_pl14"/>
+		</weapons>
+		<forbids>
+			<value_node value="wpn_fps_pis_g18c_s_stock"/>
+		</forbids>
+	</WeaponMod>
+	
+    <AddFiles directory="assets" auto_generate="true"/>
+	<Hooks directory="hooks">
+		<hook file="blackmarketmanager.lua"  		source_file="lib/managers/blackmarketmanager"/>
+		<hook file="newraycastweaponbase.lua"  		source_file="lib/units/weapons/newraycastweaponbase"/>
+		<hook file="fpcameraplayerbase.lua" 		source_file="lib/units/cameras/fpcameraplayerbase"/>
+	</Hooks>
+</mod>

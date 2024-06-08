@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<tweaks>
+	<tweak version="2" name="anims/fps/fps_spawn" extension="animation_subset">
+		<search>
+			<xml/>
+		</search>
+			
+		<target mode="attach">
+			<anim name="pistolknife_reload" 					file="anims/fps/pistolknife/pistolknife_reload" blend_set="all"/>
+			<anim name="pistolknife_reload_not_empty" 			file="anims/fps/pistolknife/pistolknife_reload_not_empty" blend_set="all"/>
+			<anim name="pistolknifeglock_reload" 				file="anims/fps/pistolknife/pistolknifeglock_reload" blend_set="all"/>
+			<anim name="pistolknifeglock_reload_not_empty" 		file="anims/fps/pistolknife/pistolknifeglock_reload_not_empty" blend_set="all"/>
+			<anim name="pistolknifedeagle_reload" 				file="anims/fps/pistolknife/pistolknifedeagle_reload" blend_set="all"/>
+			<anim name="pistolknifedeagle_reload_not_empty" 	file="anims/fps/pistolknife/pistolknifedeagle_reload_not_empty" blend_set="all"/>
+			<anim name="pistolknifesparrow_reload" 				file="anims/fps/pistolknife/pistolknifesparrow_reload" blend_set="all"/>
+			<anim name="pistolknifesparrow_reload_not_empty" 	file="anims/fps/pistolknife/pistolknifesparrow_reload_not_empty" blend_set="all"/>
+			
+			<anim name="pistolknife_idle" 					file="anims/fps/pistolknife/pistolknife_idle" blend_set="all"/>
+			<anim name="pistolknife_recoil" 				file="anims/fps/pistolknife/pistolknife_recoil" blend_set="all"/>
+			<anim name="pistolknife_recoil_steelsight" 		file="anims/fps/pistolknife/pistolknife_recoil" blend_set="all"/>
+			<anim name="pistolknife_recoil_loop" 			file="anims/fps/pistolknife/pistolknife_recoil_loop" blend_set="all"/>
+			<anim name="pistolknife_recoil_enter" 			file="anims/fps/pistolknife/pistolknife_recoil_exit" blend_set="all"/>
+			<anim name="pistolknife_recoil_exit" 			file="anims/fps/pistolknife/pistolknife_recoil_exit" blend_set="all"/>
+			
+			<anim name="pistolknife_equip" 				file="anims/fps/pistolknife/pistolknife_equip" blend_set="all"/>
+			<anim name="pistolknife_unequip" 			file="anims/fps/pistolknife/pistolknife_unequip" blend_set="all"/>
+			<anim name="pistolknife_melee" 				file="anims/fps/pistolknife/pistolknife_melee" blend_set="all"/>
+			<anim name="pistolknife_melee_miss" 		file="anims/fps/pistolknife/pistolknife_melee_miss" blend_set="all"/>
+			<anim name="pistolknife_use" 				file="anims/fps/pistolknife/pistolknife_use" blend_set="all"/>
+			<anim name="pistolknife_sprint_enter" 		file="anims/fps/pistolknife/pistolknife_sprint_enter" blend_set="all"/>
+			<anim name="pistolknife_sprint" 			file="anims/fps/pistolknife/pistolknife_sprint" blend_set="all"/>
+			<anim name="pistolknife_sprint_exit" 		file="anims/fps/pistolknife/pistolknife_sprint_exit" blend_set="all"/>
+			<anim name="pistolknife_com_down_var1" 		file="anims/fps/pistolknife/pistolknife_com_var1" blend_set="all"/>
+			<anim name="pistolknife_com_stop" 			file="anims/fps/pistolknife/pistolknife_com_var5" blend_set="all"/>
+			<anim name="pistolknife_com_come" 			file="anims/fps/pistolknife/pistolknife_com_var6" blend_set="all"/>
+			<anim name="pistolknife_com_point" 			file="anims/fps/pistolknife/pistolknife_com_var7" blend_set="all"/>
+			<anim name="pistolknife_get_up" 			file="anims/fps/pistolknife/pistolknife_get_up" blend_set="all"/>
+			<anim name="pistolknife_gogo" 				file="anims/fps/pistolknife/pistolknife_gogo" blend_set="all"/>
+			<anim name="pistolknife_tased" 				file="anims/fps/pistolknife/pistolknife_tased" blend_set="all"/>
+			<anim name="pistolknife_tased_boost" 		file="anims/fps/pistolknife/pistolknife_tased_boost" blend_set="all"/>
+			<anim name="pistolknife_tased_exit" 		file="anims/fps/pistolknife/pistolknife_tased_exit" blend_set="all"/>
+			<anim name="pistolknife_inspect" 			file="anims/fps/pistolknife/pistolknife_inspect" blend_set="all"/>
+				
+		</target>
+	</tweak>
+</tweaks>

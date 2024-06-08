@@ -1,0 +1,30 @@
+{
+	"menu_id" : "SimpleCompassOptions",
+	"parent_menu_id" : "blt_options",
+	"title" : "menu_simple_compass_title",
+	"description" : "menu_simple_compass_desc",
+	"back_callback" : "SimpleCompass_OptionsSave",
+	"area_bg" : "half",
+	"items" : [
+		{
+			"type" : "slider",
+			"id" : "HUDOffsetY",
+			"title" : "menu_simple_compass_offset_y_title",
+			"description" : "menu_simple_compass_offset_y_desc",
+			"callback" : "SimpleCompassSlider_MenuCallback",
+			"value" : "HUDOffsetY",
+			"max" : 1000,
+			"min" : -100,
+			"step" : 1
+		},
+		{
+			"type" : "toggle",
+			"id" : "TeammateVisible",
+			"title" : "menu_simple_compass_teammate_visible_title",
+			"description" : "menu_simple_compass_teammate_visible_desc",
+			"callback" : "SimpleCompassCheckbox_MenuCallback",
+			"value" : "TeammateVisible"
+		}
+	]
+}
+
