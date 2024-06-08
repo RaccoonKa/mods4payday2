@@ -1,0 +1,18 @@
+<hooks script_path="legacy_hooks/">
+	<group :script_path="lib/" hook_id="lib/">
+		<group :script_path="managers/" :hook_id="managers/">
+			<post :script_path="weaponfactorymanager.lua" :hook_id="weaponfactorymanager"/>
+		</group>
+
+		<group :script_path="tweak_data/" :hook_id="tweak_data/">
+			<post :script_path="weapontweakdata.lua" :hook_id="weapontweakdata"/>
+		</group>
+
+		<group :script_path="units/" :hook_id="units/">
+			<group :script_path="weapons/" :hook_id="weapons/">
+				<post :script_path="menuraycastweaponbase.lua" :hook_id="menuraycastweaponbase"/>
+				<post :script_path="newraycastweaponbase.lua" :hook_id="newraycastweaponbase"/>
+			</group>
+		</group>
+	</group>
+</hooks>

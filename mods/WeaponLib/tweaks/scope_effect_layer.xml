@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<tweaks>
+	<tweak version="2" name="core/settings/layers" extension="diesel_layers">
+		<search>
+			<diesel_layers/>
+			<layer_setup name="world"/>
+			<post_processor name="color_grading_post"/>
+		</search>
+
+		<target mode="replace">
+			<post_processor name="scope_effect_post" file="core/shaders/post_processor" default_effect="color_off" target="back_buffer" statistics_scope="post_processor"/>
+			<post_processor name="color_grading_post" file="core/shaders/post_processor" default_effect="color_off" target="back_buffer" statistics_scope="post_processor"/>
+		</target>
+	</tweak>
+</tweaks>

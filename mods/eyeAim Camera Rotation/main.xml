@@ -1,0 +1,14 @@
+<table name="eyeAim Camera Rotation" global_key="eyeAimCameraRotation" color="Color(0.6, 0.9, 0.1)">
+	<AssetUpdates id="32721" version="1.4.1" provider="modworkshop"/>
+
+	<Localization directory="localisation" default="english.json"/>
+
+	<Options name="Options" auto_build_menu="true" auto_load="true">
+		<options title_id="menu_eyeaim_camera_rotation_options" desc_id="menu_eyeaim_camera_rotation_options_desc">
+			<option type="number"
+				name="ECRMultiplier" title_id="menu_eyeaim_camera_rotation_multiplier" desc_id="menu_eyeaim_camera_rotation_multiplier_desc"
+				default_value="1" min="0" max="5" step="0.1" show_value="true"
+			/>
+		</options>
+	</Options>
+</table>

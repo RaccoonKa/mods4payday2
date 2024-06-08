@@ -1,0 +1,11 @@
+{
+	"name" : "eyeAim Camera Rotation",
+	"author" : "Cpone",
+	"pre_hooks" : [
+		{ "hook_id" : "core/lib/system/coresystem", "script_path" : "hooks/coresystem.lua" }
+	],
+	"hooks" : [
+		{ "hook_id" : "lib/units/cameras/fpcameraplayerbase", "script_path" : "hooks/fpcameraplayerbase.lua" },
+		{ "hook_id" : "lib/units/beings/player/playercamera", "script_path" : "hooks/playercamera.lua" }
+	]
+}

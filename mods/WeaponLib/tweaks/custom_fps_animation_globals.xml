@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<tweaks>
+	<tweak version="2" name="anims/fps/fps" extension="animation_state_machine">
+		<search>
+			<state_machine/>
+			<global name="steelsight_weight"/>
+		</search>
+
+		<target mode="append">
+			<global name="is_jammed" value="0"/>
+			<global name="is_empty" value="0"/>
+		</target>
+	</tweak>
+</tweaks>

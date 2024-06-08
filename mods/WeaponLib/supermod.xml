@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<mod>
+	<tweak definition="tweaks/custom_fps_animation_globals.xml"/>
+	<tweak definition="tweaks/scope_effect_layer.xml"/>
+
+	<:include src="hooks.xml"/>
+	<:include src="legacy_hooks.xml"/>
+</mod>

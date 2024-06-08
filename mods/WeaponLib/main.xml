@@ -1,0 +1,43 @@
+<!--
+WeaponLib
+Copyright (C) 2024  Connie Price
+
+WeaponLib is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+WeaponLib is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with WeaponLib. If not, see <https://www.gnu.org/licenses/>.
+-->
+
+<table name="WeaponLib" color="Color(0.6, 0.9, 0.1)" image="guis/mod_icons/weaponlib">
+	<AssetUpdates id="24177" version="1.7.5" provider="modworkshop"/>
+
+	<Localization directory="localisation" default="english.json">
+		<localization language="dutch"      file="dutch.json"/>
+		<localization language="english"    file="english.json"/>
+		<localization language="finnish"    file="finnish.json"/>
+		<localization language="french"     file="french.json"/>
+		<localization language="german"     file="german.json"/>
+		<localization language="italian"    file="italian.json"/>
+		<localization language="japanese"   file="japanese.json"/>
+		<localization language="korean"     file="korean.json"/>
+		<localization language="latam"      file="latam.json"/>
+		<localization language="polish"     file="polish.json"/>
+		<localization language="portuguese" file="portuguese.json"/>
+		<localization language="russian"    file="russian.json"/>
+		<localization language="schinese"   file="schinese.json"/>
+		<localization language="spanish"    file="spanish.json"/>
+		<localization language="turkish"    file="turkish.json"/>
+	</Localization>
+
+	<AddFiles directory="assets">
+		<texture path="guis/mod_icons/weaponlib"/>
+	</AddFiles>
+</table>

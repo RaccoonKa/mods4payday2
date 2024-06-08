@@ -1,0 +1,6 @@
+<mod name="Modern Sights" color="Color(0.01,0.62,0.98)">
+	<AssetUpdates id="23095" version="1.1" provider="modworkshop"/>
+	<Hooks directory="hooks">
+		<hook file="playerstandard.lua" source_file="lib/units/beings/player/states/playerstandard"/>
+	</Hooks>
+</mod>

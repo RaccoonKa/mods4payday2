@@ -1,0 +1,1 @@
+ShotgunBase._fire_raycast = NewRaycastWeaponBase._fire_raycast

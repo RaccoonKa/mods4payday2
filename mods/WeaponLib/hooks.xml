@@ -1,0 +1,54 @@
+<hooks script_path="hooks/">
+	<group :script_path="lib/" hook_id="lib/">
+		<group :script_path="managers/" :hook_id="managers/">
+			<post :script_path="blackmarketmanager.lua" :hook_id="blackmarketmanager"/>
+			<post :script_path="weaponfactorymanager.lua" :hook_id="weaponfactorymanager"/>
+
+			<group :script_path="menu/" :hook_id="menu/">
+				<post :script_path="playerinventorygui.lua" :hook_id="playerinventorygui"/>
+				<post :script_path="blackmarketgui.lua" :hook_id="blackmarketgui"/>
+			</group>
+		</group>
+
+		<group :script_path="tweak_data/" :hook_id="tweak_data/">
+			<post :script_path="weapontweakdata.lua" :hook_id="weapontweakdata"/>
+		</group>
+
+		<group :script_path="units/" :hook_id="units/">
+			<group :script_path="beings/" :hook_id="beings/">
+				<group :script_path="player/" :hook_id="player/">
+					<group :script_path="states/" :hook_id="playermovement">
+						<post :script_path="playerbipod.lua"/>
+						<post :script_path="playerstandard.lua"/>
+					</group>
+				</group>
+			</group>
+
+			<group :script_path="cameras/" :hook_id="cameras/">
+				<post :script_path="fpcameraplayerbase.lua" :hook_id="fpcameraplayerbase"/>
+			</group>
+
+			<group :script_path="weapons/" :hook_id="weapons/">
+				<post :script_path="akimboshotgunbase.lua" :hook_id="akimboshotgunbase"/>
+				<post :script_path="akimboweaponbase.lua" :hook_id="akimboweaponbase"/>
+				<post :script_path="raycastweaponbase.lua" :hook_id="raycastweaponbase"/>
+				<post :script_path="newflamethrowerbase.lua" :hook_id="newflamethrowerbase"/>
+				<post :script_path="newnpcraycastweaponbase.lua" :hook_id="newnpcraycastweaponbase"/>
+				<post :script_path="newraycastweaponbase.lua" :hook_id="newraycastweaponbase"/>
+				<post :script_path="projectileweaponbase.lua" :hook_id="projectileweaponbase"/>
+
+				<post :script_path="weaponunderbarrel.lua" :hook_id="weaponunderbarrel"/>
+				<post :script_path="weaponunderbarrellauncher.lua" :hook_id="weaponunderbarrellauncher"/>
+				<post :script_path="weaponunderbarrelraycast.lua" :hook_id="weaponunderbarrelraycast"/>
+
+				<group :script_path="shotgun/" :hook_id="shotgun/">
+					<post :script_path="shotgunbase.lua" :hook_id="shotgunbase"/>
+				</group>
+			</group>
+		</group>
+
+		<group :script_path="utils/" :hook_id="utils/">
+			<post :script_path="inventorydescription.lua" :hook_id="inventorydescription"/>
+		</group>
+	</group>
+</hooks>

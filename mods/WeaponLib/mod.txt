@@ -1,0 +1,9 @@
+{
+	"name" : "WeaponLib",
+	"description" : "Compilation of various libraries and helper mods for custom weapons.",
+	"author" : "Cpone",
+	"color" : "153 230 26",
+	"blt_version" : 2,
+	"priority" : 499,
+	"image" : "assets/guis/mod_icons/weaponlib.dds"
+}

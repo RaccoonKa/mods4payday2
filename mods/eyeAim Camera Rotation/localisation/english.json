@@ -1,0 +1,7 @@
+{
+	"menu_eyeaim_camera_rotation_options" : "eyeAim Camera Rotation",
+	"menu_eyeaim_camera_rotation_options_desc" : "Options for eyeAim Camera Rotation",
+
+	"menu_eyeaim_camera_rotation_multiplier" : "Camera Movement Multiplier",
+	"menu_eyeaim_camera_rotation_multiplier_desc" : "Adjust how strong the camera movement is",
+}

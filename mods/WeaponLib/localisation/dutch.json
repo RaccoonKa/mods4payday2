@@ -1,0 +1,5 @@
+{
+    "bm_menu_requires" : "Deze modificatie vereist:",
+    "bm_menu_incompatiblity" : "Deze modificatie is niet beschikbaar met:",
+    "bm_menu_category_quantity" : "$quantifier; $category;"
+}

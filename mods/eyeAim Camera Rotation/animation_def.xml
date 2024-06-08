@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<tweaks>
+	<tweak version="2" name="anims/fps/fps" extension="animation_def">
+		<search>
+			<xml/>
+			<animatable_set name="fps"/>
+		</search>
+
+		<target mode="attach">
+			<bone name="eyeAim" alias="all"/>
+		</target>
+	</tweak>
+</tweaks>

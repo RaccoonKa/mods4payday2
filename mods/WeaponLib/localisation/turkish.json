@@ -1,0 +1,5 @@
+{
+	"bm_menu_requires" : "This modification requires:",
+	"bm_menu_incompatiblity" : "Bu eklenti ile uyuşmuyor:",
+	"bm_menu_category_quantity" : "$quantifier; $category;"
+}

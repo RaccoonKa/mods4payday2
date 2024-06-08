@@ -1,0 +1,6 @@
+{
+	"name" : "Modern Sights",
+	"description" : "Allows to create better 'modern' sights that use separate meshes depending if player is currently aiming through sights.",
+	"color" : "0.01 0.62 0.98",
+	"blt_version" : 2,
+}

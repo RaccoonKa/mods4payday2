@@ -1,0 +1,5 @@
+{
+	"bm_menu_requires" : "This mod requires:",
+	"bm_menu_incompatiblity" : "This mod is incompatible with:",
+	"bm_menu_category_quantity" : "$quantifier; $category;"
+}
