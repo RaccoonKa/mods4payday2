@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<dynamic_object>
+	<diesel materials="core/material_configs/hub_elements" orientation_object="rp_root" />
+	
+	<bodies>
+		<body name="static_body" enabled="true" template="editor">
+		  <object name="c_c" collision_type="box" />
+		</body>
+	</bodies>
+	
+	<graphics>
+		<graphic_group name="grp_grp" enabled="true" culling_object="co_co">
+			<object name="g_g" enabled="true" instance_struct="world_tm" />
+		</graphic_group>
+	</graphics>
+</dynamic_object>

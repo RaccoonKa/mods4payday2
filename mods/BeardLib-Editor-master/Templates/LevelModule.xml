@@ -1,0 +1,14 @@
+<level ai_group_type="america" id="map" max_bags="54">
+	<packages/>
+	<assets>
+		<asset name="ammo_bag"/>
+		<asset name="health_bag"/>
+		<asset name="grenade_crate"/>
+		<asset name="bodybags_bag"/>
+	</assets>
+	<script_data_mods directory="scriptdata">
+		<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
+			<options merge_mode="add" mode="add"/>
+		</mod>
+	</script_data_mods>
+</level>
