@@ -1,0 +1,13 @@
+{
+	"name" : "Instant Restart",
+	"description" : "Instantly restarts the game instead of waiting 5 seconds.",
+	"author" : "Takku",
+	"version" : "1",
+	"priority" : 0,
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/votemanager",
+			"script_path" : "ire.lua"
+		}
+	]
+}

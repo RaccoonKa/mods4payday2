@@ -1,0 +1,12 @@
+657012853.stream = maginstart
+654736172.stream = maginstart
+722923433.stream = magin
+574165826.stream = maginstart
+590227719.stream = boltforward
+254095145.stream = boltforward
+422171026.stream = boltbackandup
+312110947.stream = boltback
+321875826.stream = boltbacklock?
+559368197.stream = magout
+867069380.stream = bipoddown
+62314290.stream = bipodup

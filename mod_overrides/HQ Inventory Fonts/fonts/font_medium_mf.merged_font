@@ -1,0 +1,7 @@
+<merged_font>
+      <font name="fonts/font_medium_cyrillic"/>
+	  <font name="core/fonts/system_font"/>
+      <font name="fonts/font_medium"/>
+      <font name="fonts/font_medium_buttons"/>
+	  <font name="fonts/font_medium_csicons"/>
+</merged_font>

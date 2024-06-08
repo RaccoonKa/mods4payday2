@@ -1,0 +1,5 @@
+{
+  "Name": "HQ Inventory Fonts",
+  "Author": "Majahet",
+  "Description": "Font files for the HQ Inventory Icons modification"
+}

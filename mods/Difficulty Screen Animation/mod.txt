@@ -1,0 +1,19 @@
+{
+    "name" : "Difficulty Screen Animation",
+    "description" : "Emulates the Difficulty Screen Animation rendered by RandomKennyRevived.",
+    "author" : "Undeadsewer",
+    "contact" : "http://steamcommunity.com/id/undeadsewer/",
+    "version" : "2",
+    "hooks" : [
+        {   
+            "hook_id" : "lib/managers/hud/hudblackscreen",
+            "script_path" : "hudblackscreen.lua"
+        }
+    ],
+    "updates" : [
+        {
+            "revision" : 2,
+            "identifier" : "DifficultyScreenAnimation"
+        }
+    ]
+}
